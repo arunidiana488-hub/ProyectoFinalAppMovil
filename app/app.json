@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Talento Nova",
+    "slug": "talentonova",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#FAFBFF",
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "softwareKeyboardLayoutMode": "pan"
+    }
+  }
+}
